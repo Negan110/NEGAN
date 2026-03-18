@@ -1,0 +1,25 @@
+negan/
+│
+├── index.html
+├── shop.html
+├── about.html
+├── contact.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── app.js
+│
+└── images/
+    ├── logo1.png
+    ├── logo2.png
+    ├── negan1.jpeg
+    ├── negan2.jpeg
+    ├── negan3.jpeg
+    ├── drop 1.jpg
+    ├── drop 1-2.jpg
+    ├── drop 2.jpg
+    ├── drop 2-2.jpg
+    ├── drop 3.jpg
+    └── drop 3-2.jpg
